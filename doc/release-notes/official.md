@@ -50,7 +50,7 @@
   * 9: Szczepan Faber
   * 2: bric3
 * Improvements: 2
-  * Upgrade ByteBuddy to 1.5.3 [(#737)](https://github.com/mockito/mockito/issues/723)
+  * Upgrade ByteBuddy to 1.5.3 [(#737)](https://github.com/mockito/mockito/issues/737)
   * Release automation tidy up [(#723)](https://github.com/mockito/mockito/pull/723)
 
 ### 2.2.9 (2016-10-26 14:44 UTC)
